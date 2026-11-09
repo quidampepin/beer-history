@@ -29,6 +29,6 @@ The pages are generated from a separate working folder (chapters in HTML, recipe
 
 ## Credits
 
-Research, writing and direction: David Pépin. Coded with Claude (Anthropic). Part of [davidpepin.ca/projects](https://www.davidpepin.ca/projects/).
+Research, writing and direction: David Pepin. Coded with Claude (Anthropic). Part of [davidpepin.ca/projects](https://www.davidpepin.ca/projects/).
 
 The published pages load Google Analytics (page views only, same property as davidpepin.ca). The tag only runs on davidpepin.ca, not when you open a file locally.
